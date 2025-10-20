@@ -1,0 +1,4 @@
+title: Mein Doku-Projekt
+description: Eine Beispiel-Dokumentation mit Jekyll & GitHub Pages
+theme: jekyll-theme-cayman
+markdown: kramdown
